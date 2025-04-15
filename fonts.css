@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Sweet Sans Pro Heavy';
+  src: url('https://jesseggett996.github.io/web-fonts/SweetSansProHeavy.woff2') format('woff2'),
+       url('https://jesseggett996.github.io/web-fonts/SweetSansProHeavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
